@@ -1,0 +1,36 @@
+policy_number,issue_date,status,policy_type,funeral_home_name,funeral_home_location,fh_state,agt_first_name,agt_last_name,pfa,growth,pi_first_name,pi_last_name,pi_address,pi_city,pi_st,pi_zipcode
+860000001,3/3/2022,active,paid up,Adams Family Funeral Home,2456 Happy Hollow Lane,TX,Angela,Flynn,5000,0,Angel,Brown,8755 Adams St,Dallas,TX,75001
+860000007,2/6/2019,active,paid up,Graley Funeral Serice Inc.,2462 Happy Hollow Lane,TX,Greg,Smith,20000,100,Pauline,Qill,9876 Alaska Dr,Dallas,TX,75001
+860000010,2/9/2019,active,paid in full,Jack and Jill Funeral Home,2465 Happy Hollow Lane,TX,Jake,Hoeft,10000,100,Val,Walker,2525 Delaware Way,Dallas,TX,75001
+860000011,2/10/2019,active,paid in full,Killian Funeral Home,2466 Happy Hollow Lane,TX,Katelyn,Bateman,12000,100,Yasmine,Zigler,7502 Florida St,Dallas,TX,75001
+860000013,2/12/2019,active,premium paying,Marrian and Son's Funeral Home,2468 Happy Hollow Lane,TX,Manda,Lynn,2400,100,Helen,Iglesias,987 Hawaii St,Dallas,TX,75001
+860000014,2/13/2019,active,premium paying,Niles Family Funeral Home,2469 Happy Hollow Lane,TX,Nancy,Grothe,29000,50,James,King,654 Idaho St,Dallas,TX,75001
+860000015,1/1/2020,active,premium paying,O'Brien Funeral Home,2470 Happy Hollow Lane,TX,Otto,Bagby,5000,50,Lauren,Mavis,655 Illilois Cir,Dallas,TX,75001
+860000016,1/2/2020,active,premium paying,Parker & Parker Creametation Society,2246 H St,TX,Paul,Callahan,10000,50,Niles,Parker,656  Indiana St,Dallas,TX,75001
+860000017,1/3/2020,active,premium paying,Quigley Funeral Home,2247 A St,GA,Quincy,Adams,8000,50,Rita,Samuels,657 Wyoming Way,Atlanta ,GA,303030
+860000018,1/4/2020,active,premium paying,Riley Funeral Services,2248 C St,GA,Ralph,Rollins,12000,50,Taylor,Willis,658 Pennsylvania St,Atlanta ,GA,303030
+860000019,1/5/2020,active,premium paying,Sullivan and Sands Funeral Home,2249 12th St,GA,Sam,Tank,20000,50,Zack,Young,659 Oregon Cir,Atlanta ,GA,303030
+860000021,1/7/2020,active,paid in full,Underhill Funeral Services,2251 Q St,GA,Ussery,Scott,20000,50,David,Batagglia,661 Kansas St,Atlanta ,GA,303030
+860000022,1/8/2020,active,premium paying,Valentine Funeral Home,2252 L St,GA,Victor,Gonzales,20000,50,Cathy ,Banks,662 Iowa Rd,Atlanta ,GA,303030
+860000023,1/9/2020,active,premium paying,White Funeral Home,2253 F St,GA,Walter,Wayne,15000,50,Stephanie,Bates,663 Salamanca Dr,Atlanta ,GA,303030
+860000025,1/11/2020,active,premium paying,Young Funeral Home,2255 24th St,GA,Yacinda,Crawford,12000,50,Fawn,Dragon,665 Louisiana Lane,Atlanta ,GA,303030
+860000026,1/12/2020,active,premium paying,Ziegenhein Funeral Home,2256 25th St,GA,Zane,Towers,7000,50,Haligh,Butler,756 Main St,Atlanta ,GA,303030
+860000028,1/14/2020,active,premium paying,Brown Funeral Services,2258 48th St,GA,Bradley,Cooper,29000,50,Colleen,Cahoon,668 3rd St,Atlanta ,GA,303030
+860000029,1/15/2020,active,premium paying,Calvin Funeral Home,2259 52nd St,GA,Chuck,Shannahan,5000,50,Denise,Craine,669 4th St,Atlanta ,GA,303030
+860000030,1/16/2020,active,premium paying,Davis Funeral Home,2260 60th St,GA,David,Audet,10000,50,Elise,Prince,875 Maryland St,Atlanta ,GA,303030
+860000032,1/18/2020,active,paid up,Faith Funeral Home,2262 84th St,GA,Fiona,Applegate,12000,50,Dwayne,Rogers,877 Michigan St,Atlanta ,GA,303030
+860000033,1/19/2020,active,paid up,Gray Funeral Home,2263 108th St,GA,George,Miller,20000,50,Darren,Dappen,878 Minnesota Rd,Atlanta ,GA,303030
+860000034,1/20/2020,active,paid up,Hope Creamation Services,2264 120th St,GA,Hank,Johnson,5000,50,Shawn,Fidone,879 Mississippi Hwy,Atlanta ,GA,303030
+860000035,1/21/2020,active,paid up,Irving Funeral Home,2265 114th St,GA,Izzy,Jones,20000,50,Heather,Garcia,880 Missouri Ave,Atlanta ,GA,303030
+860000036,1/22/2020,active,premium paying,Jackson Funeral Home,2266 152nd St,IL,John,Davis,20000,50,Arianna,Longmore,881 Montana St,Chicago,IL,606060
+860000037,3/3/2022,active,premium paying,Kline Funeral Services,2267 144th St,IL,Keith,Anderson,15000,0,Mike,Hansen,882 Nebraska St,Chicago,IL,606060
+860000038,3/4/2022,active,premium paying,Long Funeral Home,2268 168th St,IL,Laura,Williams,10000,0,Lisa,Henkins,883 Nevada Way,Chicago,IL,606060
+860000039,3/5/2022,active,premium paying,Murphy Funeral Home,2269 190th St,IL,Mike,Thompson,12000,0,Bob ,Long,884 New Hampshire Ave,Chicago,IL,606060
+860000040,3/6/2022,active,premium paying,Newton Funeral Services,3333 Center Rd,IL,Nina,Taylor,7000,0,Kylie,Livermore,885 New Jersey St,Chicago,IL,606060
+860000041,3/7/2022,active,premium paying,Owen Funeral Home,3334 Dodge Rd,IL,Oliver,Harris,2400,0,Marilyn,Marrero,7575 New Mexico St,Chicago,IL,606060
+860000042,3/8/2022,active,premium paying,Porter Funeral Home,3335 Farnam Rd,IL,Phillip,Garcia,29000,0,Kathy,Peterson,7576 New York St,Chicago,IL,606060
+860000043,3/9/2022,active,premium paying,Queen Funeral Services,3336 Harney Rd,IL,Que,Lewis,7500,0,Katie ,Bell,7577 North Carolina Rd,Chicago,IL,606060
+860000044,3/10/2022,active,premium paying,Randall Creamation Services,3337 Cornhusker Rd,IL,Rusty,Lord,8600,0,Rachel,Pope,7578 North Dakota St,Chicago,IL,606060
+860000045,3/11/2022,active,premium paying,Simpson Funeral Home,3338 Otter Rd,IL,Salena,Parker,950,0,Sherry,Renfrow,7579 Ohio Ave,Chicago,IL,606060
+860000047,3/13/2022,active,premium paying,Turner Funeral Services,3340 Jones Rd,IL,Ursula,Martinez,3300,0,Amanda,Rock,7581 Tennessee St,Chicago,IL,606060
+860000048,3/14/2022,active,paid up,Valdez Funeral Home,3341 Central Rd,IL,Victoria,Robinson,4700,0,Amy ,Vasta,7582 Dallas St,Chicago,IL,606060

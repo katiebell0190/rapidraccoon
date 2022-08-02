@@ -1,0 +1,60 @@
+-- SELECT * FROM funeral_home.policy;
+-- ALTER TABLE funeral_home.agent
+-- ADD FOREIGN KEY (fh_id) REFERENCES funeral_home.funeral_home
+
+-- ALTER TABLE funeral_home.agent
+-- ADD FOREIGN KEY (fh_id) REFERENCES funeral_home.funeral_home;
+
+-- SELECT * FROM funeral_home.funeral_home;
+-- ALTER TABLE funeral_home.agent
+-- ADD FOREIGN KEY (policy_number) REFERENCES funeral_home.policy;
+
+-- ALTER TABLE funeral_home.funeral_home
+-- ADD PRIMARY KEY (fh_id);
+
+-- ALTER TABLE funeral_home.primary_insured
+-- ADD FOREIGN KEY (policy_number) REFERENCES funeral_home.policy;
+
+-- ALTER TABLE funeral_home.primary_insured
+-- DROP CONSTRAINT primary_insured_policy_number_fkey1
+
+-- ALTER TABLE funeral_home.agent
+-- ADD FOREIGN KEY (fh_id) REFERENCES funeral_home.funeral_home (fh_id);
+
+-- Select fh_id 
+-- FROM funeral_home.funeral_home;
+
+-- Select *
+-- FROM funeral_home.policy;
+
+-- SELECT 
+-- 		fhp.policy_number,
+-- 		fhp.issue_date,
+-- 		fhp.status,
+-- 		fhp.policy_type,
+-- 		fhfh.funeral_home_name,
+-- 		fhfh.funeral_home_location,
+-- 		fhfh.fh_state,
+-- 		fha.agt_first_name,
+-- 		fha.agt_last_name,
+-- 		fhp.pfa,
+-- 		fhp.growth,
+-- 		fhp.pfa_with_growth,
+-- 		fhpi.pi_first_name,
+-- 		fhpi.pi_last_name,
+-- 		fhpi.pi_address,
+-- 		fhpi.pi_city,
+-- 		fhpi.pi_st,
+-- 		fhpi.pi_zipcode
+-- FROM funeral_home.policy as fhp
+-- LEFT JOIN funeral_home.funeral_home as fhfh
+-- ON fhp.fh_id = fhfh.fh_id
+-- LEFT JOIN funeral_home.primary_insured as fhpi
+-- ON fhp.user_id = fhpi.user_id
+-- LEFT OUTER JOIN funeral_home.agent as fha
+-- ON fha.fh_id=fhfh.fh_id
+-- WHERE status = 'active'
+
+ALTER TABLE funeral_home.policy
+ADD FOREIGN KEY (fh_id) REFERENCES funeral_home.policy (fh_id)
+

@@ -1,0 +1,13 @@
+CREATE TABLE funeral_home(
+	branch_id SERIAL PRIMARY KEY,
+	user_id  INT UNIQUE NOT NULL,
+	policy_number INT,
+	funeral_home_name VARCHAR (155),
+	funeral_home_location VARCHAR (155),
+	city VARCHAR (155),
+	fh_state VARCHAR (2),
+	zipcode VARCHAR (10),
+	PFA INT,
+	growth INT,
+	PFA_with_Growth INT
+);
